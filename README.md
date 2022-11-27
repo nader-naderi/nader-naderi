@@ -1,4 +1,4 @@
-### Hi there, its nader again, you can call me NDR113 👋
+### Hi there, its nader again, you can call me NDR 👋
 
 [![HitCount](http://hits.dwyl.com/nader-naderi/nader-naderi.svg)](http://hits.dwyl.com/nader-naderi/nader-naderi)
 
