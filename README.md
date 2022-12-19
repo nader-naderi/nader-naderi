@@ -2,8 +2,6 @@
 
 [![HitCount](http://hits.dwyl.com/nader-naderi/nader-naderi.svg)](http://hits.dwyl.com/nader-naderi/nader-naderi)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on "First Person Tactical Shooter" project for Steam.
 - 🌱 I’m currently learning c++ game engine programming and Mastering Unity and C#.
 - 👯 I’m looking to collaborate on GitHub & GitLab
